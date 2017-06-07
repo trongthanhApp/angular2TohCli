@@ -12,6 +12,7 @@
 # IDEs and editors
 /.idea
 .classpath
+# .project
 .c9/
 *.launch
 .settings/
